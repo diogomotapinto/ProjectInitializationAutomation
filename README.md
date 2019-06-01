@@ -6,3 +6,5 @@ Then go to create.py and set the username and password to be your username and p
 Also make sure to change all directories to your directories so it should be '/Users/<your username>/path/to/your/project'
 
 To run the command type in 'create <name of your folder>'
+
+Make sure you have chromedriver installed
